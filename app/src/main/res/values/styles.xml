@@ -1,0 +1,14 @@
+<resources>
+<!--    <style name="AppTheme" parent="Theme.MaterialComponents.Light.DarkActionBar">-->
+<!--        <item name="colorPrimary">@color/colorPrimary</item>-->
+<!--        <item name="colorPrimaryDark">@color/corolPrimaryDark</item>-->
+<!--        <item name="colorAccent">@color/colorAccent</item>-->
+<!--    </style>-->
+    <style name="AppTheme.NoActionbar" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/design_default_color_secondary</item>
+        <item name="colorPrimaryDark">@color/design_default_color_secondary_variant</item>
+        <item name="colorAccent">@color/design_default_color_primary</item>
+    </style>
+
+
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "821939629531",
+    "project_id": "forproject1212",
+    "storage_bucket": "forproject1212.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821939629531:android:3d75403e8be1fc9755cbfe",
+        "android_client_info": {
+          "package_name": "com.example.sookmyungchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821939629531-snr7rt99ubpq88ipe85k2rh2md0cp7l4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4LfIiRomGJCHGG1vQtS9f2aET-gfnCgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821939629531-snr7rt99ubpq88ipe85k2rh2md0cp7l4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
