@@ -7,14 +7,15 @@
         <entry key="app/src/main/res/drawable/back_et_name.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/back_et_othermsgbox.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/et_name_cursor.xml" value="0.1" />
-        <entry key="app/src/main/res/layout/activity_chat.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_chat.xml" value="0.21210601430714335" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.11458333333333333" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="app/src/main/res/layout/my_msgbox.xml" value="0.2698963264538402" />
         <entry key="app/src/main/res/layout/other_msgbox.xml" value="0.3655153113122106" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
