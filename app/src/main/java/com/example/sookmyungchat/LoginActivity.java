@@ -50,9 +50,9 @@ public class LoginActivity extends AppCompatActivity {
         // Initialize Firebase Auth
         mAuth = FirebaseAuth.getInstance();
         if(mAuth.getCurrentUser()!= null) {
-            Intent intent = new Intent(getApplication(), MainActivity.class);
+            Intent intent = new Intent(getApplication(), EnterCode.class);
             startActivity(intent);
-            finish();
+            //finish();
         }
         // [END initialize_auth]
 

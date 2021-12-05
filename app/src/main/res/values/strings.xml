@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">SookMyungChat</string>
     <string name="firebase_web_client_id"> 821939629531-snr7rt99ubpq88ipe85k2rh2md0cp7l4.apps.googleusercontent.com </string>
+    <string name="enter_code">sookmyung</string>
 </resources>

@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "821939629531",
+    "firebase_url": "https://forproject1212-default-rtdb.firebaseio.com",
     "project_id": "forproject1212",
     "storage_bucket": "forproject1212.appspot.com"
   },
@@ -13,6 +14,22 @@
         }
       },
       "oauth_client": [
+        {
+          "client_id": "821939629531-1p2d9f9gsu7jk6p8sfq689l6ujmplh0h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sookmyungchat",
+            "certificate_hash": "5031370b4b0c63cc28c83cc42d6d2c187bcbf702"
+          }
+        },
+        {
+          "client_id": "821939629531-44ottf64ohmp2e0nmf3f9r3crfrk26sc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sookmyungchat",
+            "certificate_hash": "f902cae88b978c4ad30b119a889702cd6538b954"
+          }
+        },
         {
           "client_id": "821939629531-snr7rt99ubpq88ipe85k2rh2md0cp7l4.apps.googleusercontent.com",
           "client_type": 3
