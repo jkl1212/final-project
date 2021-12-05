@@ -8,6 +8,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
+import android.widget.Toast;
 
 public class EnterCode extends AppCompatActivity {
 
@@ -34,7 +35,7 @@ public class EnterCode extends AppCompatActivity {
                     Intent intent = new Intent(getApplication(), MainActivity.class);
                     startActivity(intent);
                 } else{
-
+                    Toast.makeText(EnterCode.this, "암호를 다시 입력해주세요!", Toast.LENGTH_SHORT).show();
                 }
             }
         });
